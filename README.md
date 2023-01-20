@@ -5,8 +5,13 @@
 
 Specially this project is dedicated to my parants S.Mujahid hussain (My Father) and Kaneez Fatima Rizvi (My Mother), Institute of Industrial Electronics Engineering: IIEE and to the students of IIEE.
 
-Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (RPLIDAR A1)” is an orthogonal combination of two RP-Lidar 2D laser scanners which we will used on slam’s vehicle to build real-time 3D point cloud map of the explored region.
-![image](https://user-images.githubusercontent.com/122727165/213647175-6ce6f9b1-42bc-4102-9d56-c7675ac69008.png)
+### Proposed Solutuin
+
+Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (RPLIDAR A1)” is an orthogonal combination of two RP-Lidar 2D laser scanners which has beed used on slam’s vehicle to build real-time 3D point cloud map of the explored region.
+
+![image](https://user-images.githubusercontent.com/122727165/213647514-308d9fa9-696b-4b9e-b3d3-d3831a972ef5.png)
+
+
 
 # Building & Installation For Hardware Setup
  
