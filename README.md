@@ -180,6 +180,24 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 NOTE: Above command execution rviz open and it will shows the real lidars readings.
 
+# Volcanobot Hardware Real-Time 3D Point-Cloud Generation Output
+
+(•) 2D Grid map generation with Rover pose
+
+![image](https://user-images.githubusercontent.com/122727165/213790272-8c5d85b1-2df3-41c4-b2fd-2f15498230f4.png)
+
+(•) Real-Time 3D point-cloud:
+
+![image](https://user-images.githubusercontent.com/122727165/213790477-e55cc953-ebd9-4458-87d2-6a8b8800f641.png)
+![image](https://user-images.githubusercontent.com/122727165/213790505-5554246e-13c8-4aee-b002-374ebf8f4494.png)
+
+
+![image](https://user-images.githubusercontent.com/122727165/213790405-203974d1-1e0d-44d8-a7fc-996a33a3f758.png)
+![image](https://user-images.githubusercontent.com/122727165/213790430-7e09480b-960e-4bcf-b302-dfc9de8cfd2c.png)
+
+
+
+
 
 
 
