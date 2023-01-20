@@ -17,7 +17,7 @@ Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (
 
 The rover selection is customize based on 4WD mobile platform model. There are two sections where we can mount our additional hardware. These sections may be called as lower section and upper section.
 
-![image](https://user-images.githubusercontent.com/122727165/213649171-4886af90-f78b-4cff-9f5b-25e3dedf1f88.png)
+![image](https://user-images.githubusercontent.com/122727165/213649634-c42d7a74-7a51-4aee-b0e1-a57e40e96467.png)
 
 
 # Installation For Hardware Setup
