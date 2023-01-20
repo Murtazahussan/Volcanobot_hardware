@@ -39,9 +39,18 @@ All hardware connections including respberry-Pi 3 model B to arduino and rp-lida
 ![image](https://user-images.githubusercontent.com/122727165/213656700-e2873a69-79a6-4ff9-9e3a-47c0bdd78ac3.png)
 ![image](https://user-images.githubusercontent.com/122727165/213656723-915c5efd-6ca7-4a2c-b339-04084feba87d.png)
 
-### 3) Rover Connectivity and control:
+### 3) Rover Connectivity and control
 
 ![image](https://user-images.githubusercontent.com/122727165/213664272-f49d39ca-9ed2-4906-8fbf-c38654482bd4.png)
+
+### 4) Vertical Lidar Zero-Degree Transformation
+
+The objective of lidar’s zero degree transformation is to reduce length of lidar’s frame (reduction in the lidar’s frame, compact in size). Another objective is to increase the flexibility in lidar.
+
+![image](https://user-images.githubusercontent.com/122727165/213665672-51ff5c2f-4e00-43bb-b33d-bd88795aa3d9.png)
+
+![image](https://user-images.githubusercontent.com/122727165/213665480-ccd8f312-d74b-4741-8b32-acc1ccb4fe2e.png)
+![image](https://user-images.githubusercontent.com/122727165/213665514-b840c86c-e703-40aa-9f1a-b03aed634ef9.png)
 
 # Installation For Hardware Setup
  
