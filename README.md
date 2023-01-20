@@ -29,6 +29,15 @@ Here, the use of 1000 Rpm encoder motors for getting the feedback from encoder f
 ![image](https://user-images.githubusercontent.com/122727165/213650463-6cb6bc4f-6deb-4c1f-8bcd-3e4d9342c89f.png)
 ![image](https://user-images.githubusercontent.com/122727165/213650485-23970853-cd75-4a79-91bc-335eb83a9de2.png)
 
+The hardware connection from motor to arduino through motor driver ln298 as follows:
+
+![image](https://user-images.githubusercontent.com/122727165/213656125-75168a0c-d541-4a4c-b023-47bfcdc13efb.png)
+![image](https://user-images.githubusercontent.com/122727165/213656150-c2485c87-d0ee-42ce-8311-168da7f5e068.png)
+
+![image](https://user-images.githubusercontent.com/122727165/213656176-8ac662c6-365a-44de-9906-e678d080d97c.png)
+![image](https://user-images.githubusercontent.com/122727165/213656199-a8adea89-67f3-4769-907e-c228583011be.png)
+
+
 
 
 
