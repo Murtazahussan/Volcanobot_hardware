@@ -24,6 +24,8 @@ Additionally, for the support of LIDARs, an acrylic stand in orthogonal shape ha
 ![image](https://user-images.githubusercontent.com/122727165/213650407-4ea27207-b368-406d-a75b-a56d3bcb6197.png)
 ![image](https://user-images.githubusercontent.com/122727165/213650438-49017536-533d-4882-8743-e34cab36ce77.png)
 
+Here, the use of 1000 Rpm encoder motors for getting the feedback from encoder for correct Rover's pose in the environment.
+
 ![image](https://user-images.githubusercontent.com/122727165/213650463-6cb6bc4f-6deb-4c1f-8bcd-3e4d9342c89f.png)
 ![image](https://user-images.githubusercontent.com/122727165/213650485-23970853-cd75-4a79-91bc-335eb83a9de2.png)
 
