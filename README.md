@@ -168,9 +168,9 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) source /opt/ros/kinetic/setup.bash
 
-(•) rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
-
 (•) cd 
+
+(•) rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
 
 (•) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
