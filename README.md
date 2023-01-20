@@ -98,6 +98,11 @@ After this follow given link for installation of rosserial
  
 (•) source devel/setup.bash
 
+##### For Master-Slave Communication
+
+https://www.youtube.com/watch?v=pJ_LL4gGGEM&t=2s&ab_channel=UDMRoboticsLAB
+
+
 
 
 
