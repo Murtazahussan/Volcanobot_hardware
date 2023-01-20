@@ -122,6 +122,19 @@
 
 https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883-be68-761befac182e.mp4
 
+(•) The High level control is raspberry-Pi 3 model B which runs on Jetpack based on ubuntu 16.04 with ROS kinetic installed.
+
+(•) The Lidar is also connected to the raspberry-Pi 3 model B via Usb and the whole system is powered using 5v from a power bank of 10000 mah to power the raspberry-Pi 3 model B.
+
+### 3) ROS Setup for Mapping
+
+(•) The arduino publishes the encoder ticks into the raspberry-Pi 3 model B via ros-serial which are subscribed by the differential_drive package and publishes /odom as well as Tf (odom -> base_footprint).
+
+(•) The Rp-Lidar package is responsible for publishing the both LaserScans as /scan /vertical_scan data along with Tf (base_link -> laser)
+
+##### Tf Tree
+
+(•) With the Robot Model
 
 
 
