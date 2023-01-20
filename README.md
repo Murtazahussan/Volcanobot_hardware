@@ -13,6 +13,11 @@ Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (
 
 ![image](https://user-images.githubusercontent.com/122727165/213647514-308d9fa9-696b-4b9e-b3d3-d3831a972ef5.png)
 
+### 2) Real Robot Harware Setup
+
+The rover selection is customize based on 4WD mobile platform model. There are two sections where we can mount our additional hardware. These sections may be called as lower section and upper section.
+
+![image](https://user-images.githubusercontent.com/122727165/213649171-4886af90-f78b-4cff-9f5b-25e3dedf1f88.png)
 
 
 # Installation For Hardware Setup
