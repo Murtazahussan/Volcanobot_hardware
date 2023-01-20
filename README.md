@@ -19,6 +19,8 @@ The rover selection is customize based on 4WD mobile platform model. There are t
 
 ![image](https://user-images.githubusercontent.com/122727165/213649634-c42d7a74-7a51-4aee-b0e1-a57e40e96467.png)
 
+Additionally, for the support of LIDARs, an acrylic stand in orthogonal shape has been designed and fabricated. Two surfaces have been developed on the stand 
+
 ![image](https://user-images.githubusercontent.com/122727165/213650407-4ea27207-b368-406d-a75b-a56d3bcb6197.png)
 ![image](https://user-images.githubusercontent.com/122727165/213650438-49017536-533d-4882-8743-e34cab36ce77.png)
 
