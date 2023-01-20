@@ -120,6 +120,8 @@
 
 (•) The main advantage of using this motors were that only 3 wires (Tx,Rx,Gnd) was required to control all the 4 motors,vary its speed and read the encoder values.
 
+https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883-be68-761befac182e.mp4
+
 
 
 
