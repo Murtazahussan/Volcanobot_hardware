@@ -7,7 +7,7 @@ Specially this project is dedicated to my parants S.Mujahid hussain (My Father) 
 
 # Building For Hardware Setup
 
-### Proposed Solutuin
+### 1) Proposed Solutuin
 
 Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (RPLIDAR A1)” is an orthogonal combination of two RP-Lidar 2D laser scanners which has beed used on slam’s vehicle to build real-time 3D point cloud map of the explored region.
 
