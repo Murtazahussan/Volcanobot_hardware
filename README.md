@@ -52,7 +52,14 @@ The objective of lidar’s zero degree transformation is to reduce length of lid
 ![image](https://user-images.githubusercontent.com/122727165/213666829-adec00ae-6742-4b07-b07b-a121a4f92d35.png)
 ![image](https://user-images.githubusercontent.com/122727165/213666975-dd90533e-b048-41c9-847d-e517581c53b9.png)
 
-# Installation For Hardware Setup
+# Working in brief
+
+### 1) Installation of ROS image in respberry-Pi 3 model B
+
+https://learn.ubiquityrobotics.com/kinetic_pi_image_downloads
+
+
+### 2) Installation For Hardware Setup
  
 (.) cd catkin_ws/src
  
@@ -62,7 +69,7 @@ The objective of lidar’s zero degree transformation is to reduce length of lid
  
 (.) source devel/setup.bash
 
-# Working in brief
+
 
 
 
