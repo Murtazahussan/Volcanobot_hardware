@@ -184,7 +184,8 @@ NOTE: Above command execution rviz open and it will shows the real lidars readin
 
 (•) 2D Grid map generation with Rover pose
 
-![image](https://user-images.githubusercontent.com/122727165/213790272-8c5d85b1-2df3-41c4-b2fd-2f15498230f4.png)
+![image](https://user-images.githubusercontent.com/122727165/213791901-64e4a7eb-5c24-40e8-9671-6213fb291c0f.png)
+![image](https://user-images.githubusercontent.com/122727165/213791940-3952b991-a41d-48a7-90ac-046ef7d32eaf.png)
 
 (•) Real-Time 3D point-cloud:
 
