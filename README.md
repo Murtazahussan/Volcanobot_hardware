@@ -61,3 +61,25 @@ The objective of lidar’s zero degree transformation is to reduce length of lid
 (.) cd ..
  
 (.) source devel/setup.bash
+
+# Working in brief
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
