@@ -140,6 +140,14 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 ### 4) Real Robot Commands Setup and Executions 
 
+(•) firstly connect horizontal lidar then vertical and in last connect arduino from raspberry-Pi 3 model B otherwise terminal shows port error
+
+(•) roslaunch rplidar_ros view_rplidar.launch
+
+(•) roslaunch rplidar_ros 123.launch
+
+(•) roslaunch rplidar_ros 123.launch
+
 
 
 
