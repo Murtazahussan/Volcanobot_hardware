@@ -54,7 +54,7 @@ The objective of lidar’s zero degree transformation is to reduce length of lid
 
 # Working in brief
 
-### 1) Installation of ROS image in raspberry-Pi 3 model B
+### 1) Installation in raspberry-Pi 3 model B
 
 The given link will be use for download ros image 
 
@@ -66,9 +66,19 @@ after this image burn into your card and after first reboot user is UBUNTU and t
 
 The above link use before step 5 only for roscore checking.
 
+after step 4 follow given link
 
+(•) http://chaolong-chen blog.logdown.com/posts/696217-cmake
 
-### 2) Installation For Hardware Setup
+After this follow given link for installation of arduino 
+
+(•) https://www.arduino.cc/en/software
+
+After this follow given link for installation of rosserial
+
+(•) https://www.youtube.com/watch?v=nyaF6BG4bT4&t=403s&ab_channel=wansnap
+
+##### Installation For Rp-lidar driver
  
 (•) cd catkin_ws/src
  
@@ -77,6 +87,17 @@ The above link use before step 5 only for roscore checking.
 (•) cd ..
  
 (•) source devel/setup.bash
+
+##### Installation For Hector-SLAM Package
+ 
+(•) cd catkin_ws/src
+ 
+(•) https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
+ 
+(•) cd ..
+ 
+(•) source devel/setup.bash
+
 
 
 
