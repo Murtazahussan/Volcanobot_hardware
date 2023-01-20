@@ -43,7 +43,7 @@ All hardware connections including respberry-Pi 3 model B to arduino and rp-lida
  
 (.) cd catkin_ws/src
  
-(.) https://github.com/Murtazahussan/volcanobot_sim.git
+(.) https://github.com/Murtazahussan/Volcanobot_hardware.git
  
 (.) cd ..
  
