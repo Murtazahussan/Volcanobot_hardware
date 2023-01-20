@@ -49,8 +49,8 @@ The objective of lidar’s zero degree transformation is to reduce length of lid
 
 ![image](https://user-images.githubusercontent.com/122727165/213665672-51ff5c2f-4e00-43bb-b33d-bd88795aa3d9.png)
 
-![image](https://user-images.githubusercontent.com/122727165/213665480-ccd8f312-d74b-4741-8b32-acc1ccb4fe2e.png)
 ![image](https://user-images.githubusercontent.com/122727165/213666829-adec00ae-6742-4b07-b07b-a121a4f92d35.png)
+![image](https://user-images.githubusercontent.com/122727165/213666975-dd90533e-b048-41c9-847d-e517581c53b9.png)
 
 # Installation For Hardware Setup
  
