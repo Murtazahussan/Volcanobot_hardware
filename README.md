@@ -19,6 +19,12 @@ The rover selection is customize based on 4WD mobile platform model. There are t
 
 ![image](https://user-images.githubusercontent.com/122727165/213649634-c42d7a74-7a51-4aee-b0e1-a57e40e96467.png)
 
+![image](https://user-images.githubusercontent.com/122727165/213650052-2116b9ec-8f07-475c-abf8-69f773e2c564.png)
+![image](https://user-images.githubusercontent.com/122727165/213650113-e2959489-3014-4b40-b967-ceec49409e72.png)
+
+
+
+
 
 # Installation For Hardware Setup
  
