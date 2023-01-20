@@ -102,11 +102,15 @@
 
 clone follow package into your workspace
 
-(.) https://github.com/Murtazahussan/ira_laser_tools.git
+(•) cd catkin_ws/src
 
-(.) roslaunch ira_laser_tools laserscan_multi_merger.launch
+(•) https://github.com/Murtazahussan/ira_laser_tools.git
 
 NOTE: Above command produce merged node of point-cloud whose name is merged_cloud for 3D point-cloud
+
+(•) cd ..
+ 
+(•) source devel/setup.bash
 
 ##### For Master-Slave Communication
 
@@ -150,7 +154,11 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 ### 4) Real Robot Commands Setup and Executions 
 
-(•) firstly connect horizontal lidar then vertical and in last connect arduino from raspberry-Pi 3 model B otherwise terminal shows port error
+(•) firstly connect raspberry-Pi 3 model B to laptop using master-slave communication then connect ssh communication through following command:
+
+(•) ssh ubuntu@ubiquityrobot.local
+
+(•) secondly connect horizontal lidar then vertical and in last connect arduino from raspberry-Pi 3 model B otherwise terminal shows port error
 
 (•) roslaunch rplidar_ros view_rplidar.launch
 
@@ -164,11 +172,13 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) cd 
 
-(•) cd 
+(•) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
+(•) roslaunch ira_laser_tools laserscan_multi_merger.launch
 
+(•) roslaunch hector_slam_launch tutorial.launch
 
-
+NOTE: Above command execution rviz open and it will shows the real lidars readings.
 
 
 
