@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) With the Robot Model
 
-![image](https://user-images.githubusercontent.com/122727165/213768471-e38bfa3b-f436-495c-b89a-a8c1621a6043.png)
+![image](https://user-images.githubusercontent.com/122727165/213768818-365b36a0-e132-44ad-938d-5a85aa9bd95b.png)
 
 
 
