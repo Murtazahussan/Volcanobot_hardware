@@ -31,8 +31,8 @@
 
 (•) The hardware connection from motor to arduino through motor driver ln298 as follows:
 
-![image](https://user-images.githubusercontent.com/122727165/213656125-75168a0c-d541-4a4c-b023-47bfcdc13efb.png)
-![image](https://user-images.githubusercontent.com/122727165/213656150-c2485c87-d0ee-42ce-8311-168da7f5e068.png)
+![image](https://user-images.githubusercontent.com/122727165/213760414-21d42ee5-243e-4753-957b-a2b604162700.png)
+![image](https://user-images.githubusercontent.com/122727165/213760451-9ede5844-d6bd-4b6e-9449-5e03d1a6d870.png)
 
 (•) All hardware connections including raspberry-Pi 3 model B to arduino and rp-lidars as follows:
 
