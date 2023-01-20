@@ -39,7 +39,7 @@ All hardware connections including respberry-Pi 3 model B to arduino and rp-lida
 ![image](https://user-images.githubusercontent.com/122727165/213656700-e2873a69-79a6-4ff9-9e3a-47c0bdd78ac3.png)
 ![image](https://user-images.githubusercontent.com/122727165/213656723-915c5efd-6ca7-4a2c-b339-04084feba87d.png)
 
-Rover Connectivity and control:
+### 3) Rover Connectivity and control:
 
 ![image](https://user-images.githubusercontent.com/122727165/213664272-f49d39ca-9ed2-4906-8fbf-c38654482bd4.png)
 
