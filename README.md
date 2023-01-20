@@ -98,6 +98,16 @@
  
 (•) source devel/setup.bash
 
+##### Installation For IRA_LASER_TOOLS Package
+
+clone follow package into your workspace
+
+(.) https://github.com/Murtazahussan/ira_laser_tools.git
+
+(.) roslaunch ira_laser_tools laserscan_multi_merger.launch
+
+NOTE: Above command produce merged node of point-cloud whose name is merged_cloud for 3D point-cloud
+
 ##### For Master-Slave Communication
 
 (•) https://www.youtube.com/watch?v=pJ_LL4gGGEM&t=2s&ab_channel=UDMRoboticsLAB
@@ -146,11 +156,15 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) roslaunch rplidar_ros 123.launch
 
-(•) roslaunch rplidar_ros 123.launch
+(•) cd catkin_ws/src
 
+(•) source /opt/ros/kinetic/setup.bash
 
+(•) rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
 
+(•) cd 
 
+(•) cd 
 
 
 
