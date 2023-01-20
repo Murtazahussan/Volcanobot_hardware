@@ -34,8 +34,8 @@ The hardware connection from motor to arduino through motor driver ln298 as foll
 ![image](https://user-images.githubusercontent.com/122727165/213656125-75168a0c-d541-4a4c-b023-47bfcdc13efb.png)
 ![image](https://user-images.githubusercontent.com/122727165/213656150-c2485c87-d0ee-42ce-8311-168da7f5e068.png)
 
-![image](https://user-images.githubusercontent.com/122727165/213656176-8ac662c6-365a-44de-9906-e678d080d97c.png)
-![image](https://user-images.githubusercontent.com/122727165/213656199-a8adea89-67f3-4769-907e-c228583011be.png)
+![image](https://user-images.githubusercontent.com/122727165/213656700-e2873a69-79a6-4ff9-9e3a-47c0bdd78ac3.png)
+![image](https://user-images.githubusercontent.com/122727165/213656723-915c5efd-6ca7-4a2c-b339-04084feba87d.png)
 
 
 
