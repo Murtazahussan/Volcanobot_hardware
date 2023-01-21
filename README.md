@@ -136,7 +136,7 @@ NOTE: Above command produce merged node of point-cloud whose name is merged_clou
 
 https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883-be68-761befac182e.mp4
 
-(•) The High level control is raspberry-Pi 3 model B which runs on Jetpack based on ubuntu 16.04 with ROS kinetic installed.
+(•) The High level control is raspberry-Pi 3 model B which runs on ubuntu 16.04 with ROS kinetic installed.
 
 (•) The Lidar is also connected to the raspberry-Pi 3 model B via Usb and the whole system is powered using 5v from a power bank of 10000 mah to power the raspberry-Pi 3 model B.
 
