@@ -172,6 +172,10 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
 
+                                    OR 
+
+    rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
+
 (•) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
 (•) roslaunch ira_laser_tools laserscan_multi_merger.launch
