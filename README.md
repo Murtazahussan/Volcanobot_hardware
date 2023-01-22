@@ -7,7 +7,7 @@
 
 # Building For Hardware Setup
 
-### 1) Proposed Solutuin
+### 1) Proposed Solution
 
 (•) Main theme of “SLAM BASED 3D MAP BUILDING USING 2 LOW COST 2D LASER SCANNERS (RPLIDAR A1)” is an orthogonal combination of two RP-Lidar 2D laser scanners which has beed used on slam’s vehicle to build real-time 3D point cloud map of the explored region.
 
@@ -58,63 +58,63 @@
 
 (•) The given link will be use for download ros image 
 
-(•) https://learn.ubiquityrobotics.com/kinetic_pi_image_downloads
+    https://learn.ubiquityrobotics.com/kinetic_pi_image_downloads
 
 (•) after this image burn into your card and after first reboot user is UBUNTU and the password is also ubuntu, then connect raspberry to your network and coomunicate through ssh protocol.
 
-(•) https://www.instructables.com/Using-RPlidar-With-Robot-Navigation/
+    https://www.instructables.com/Using-RPlidar-With-Robot-Navigation/
 
 (•) The above link use before step 5 only for roscore checking.
 
 (•) after step 4 follow given link
 
-(•) http://chaolong-chen blog.logdown.com/posts/696217-cmake
+    http://chaolong-chen blog.logdown.com/posts/696217-cmake
 
 (•) After this follow given link for installation of arduino 
 
-(•) https://www.arduino.cc/en/software
+    https://www.arduino.cc/en/software
 
 (•) After this follow given link for installation of rosserial
 
-(•) https://www.youtube.com/watch?v=nyaF6BG4bT4&t=403s&ab_channel=wansnap
+    https://www.youtube.com/watch?v=nyaF6BG4bT4&t=403s&ab_channel=wansnap
 
 ##### Installation For Rp-lidar driver
  
-(•) cd catkin_ws/src
+    cd catkin_ws/src
  
-(•) https://github.com/Murtazahussan/Volcanobot_hardware.git
+    https://github.com/Murtazahussan/Volcanobot_hardware.git
  
-(•) cd ..
+    cd ..
  
-(•) source devel/setup.bash
+    source devel/setup.bash
 
 ##### Installation For Hector-SLAM Package
  
-(•) cd catkin_ws/src
+    cd catkin_ws/src
  
-(•) https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
+    https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
  
-(•) cd ..
+    cd ..
  
-(•) source devel/setup.bash
+    source devel/setup.bash
 
 ##### Installation For IRA_LASER_TOOLS Package
 
 clone follow package into your workspace
 
-(•) cd catkin_ws/src
+    cd catkin_ws/src
 
-(•) https://github.com/Murtazahussan/ira_laser_tools.git
+    https://github.com/Murtazahussan/ira_laser_tools.git
 
 NOTE: Above command produce merged node of point-cloud whose name is merged_cloud for 3D point-cloud
 
-(•) cd ..
+    cd ..
  
-(•) source devel/setup.bash
+    source devel/setup.bash
 
 ##### For Master-Slave Communication
 
-(•) https://www.youtube.com/watch?v=pJ_LL4gGGEM&t=2s&ab_channel=UDMRoboticsLAB
+    https://www.youtube.com/watch?v=pJ_LL4gGGEM&t=2s&ab_channel=UDMRoboticsLAB
 
 ### 2) Topics Publish By Arduino on ROS
 
@@ -122,11 +122,11 @@ NOTE: Above command produce merged node of point-cloud whose name is merged_clou
 
 ##### Topics published and subscribed by Arduino
 
-(•) /cmd_vel
+    /cmd_vel
 
-(•) /right_ticks
+    /right_ticks
 
-(•) /left_ticks 
+    /left_ticks 
 
 (•) I have used ln298 Motor driver for controlling the Dc motors with encoders.
 
@@ -156,31 +156,31 @@ https://user-images.githubusercontent.com/122727165/213761161-ae8d6e3d-2bcf-4883
 
 (•) firstly connect raspberry-Pi 3 model B to laptop using master-slave communication then connect ssh communication through following command:
 
-(•) ssh ubuntu@ubiquityrobot.local
+    ssh ubuntu@ubiquityrobot.local
 
 (•) secondly connect horizontal lidar then vertical and in last connect arduino from raspberry-Pi 3 model B otherwise terminal shows port error
 
-(•) roslaunch rplidar_ros view_rplidar.launch
+    roslaunch rplidar_ros view_rplidar.launch
 
-(•) roslaunch rplidar_ros 123.launch
+    roslaunch rplidar_ros 123.launch
 
-(•) cd catkin_ws/src
+    cd catkin_ws/src
 
-(•) source /opt/ros/kinetic/setup.bash
+    source /opt/ros/kinetic/setup.bash
 
-(•) cd 
+    cd 
 
-(•) rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
+    rosrun rosserial_python serial_node.py _baud:=115200 _port:=/dev/ttyUSB2
 
                                     OR 
 
     rosrun rosserial_arduino serial_node.py _port:=/dev/ttyUSB0 _baud:=115200
 
-(•) rosrun teleop_twist_keyboard teleop_twist_keyboard.py
+    rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 
-(•) roslaunch ira_laser_tools laserscan_multi_merger.launch
+    roslaunch ira_laser_tools laserscan_multi_merger.launch
 
-(•) roslaunch hector_slam_launch tutorial.launch
+    roslaunch hector_slam_launch tutorial.launch
 
 NOTE: Above command execution rviz open and it will shows the real lidars readings.
 
