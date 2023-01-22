@@ -80,7 +80,7 @@
 
 ##### Installation For Rp-lidar driver
  
- (•) cd catkin_ws/src
+(•) cd catkin_ws/src
  
 (•) https://github.com/Murtazahussan/Volcanobot_hardware.git
  
